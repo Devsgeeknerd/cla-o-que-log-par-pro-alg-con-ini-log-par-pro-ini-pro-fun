@@ -11,5 +11,5 @@ sorteados = set()
 
 while len(sorteados) < tamanho:
     sorteados.add(choice(numeros))
-    lista.sort()
+    # lista.sort()
 print(sorteados)
