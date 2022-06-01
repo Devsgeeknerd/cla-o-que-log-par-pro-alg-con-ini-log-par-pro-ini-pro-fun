@@ -14,3 +14,5 @@ while len(sorteados) < tamanho:
     """ OBS: O set não permite valores repetidos. """
     lista.sort()
     """ OBS: O sort() ordena a lista. """
+print(sorteados)
+""" OBS: O print() imprime o resultado. """
