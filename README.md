@@ -9,7 +9,7 @@ Projeto basico para testa os conhecimentos adquiridos durante o Curso de Algorit
 ## TABELA DE CONTEÚDOS
 
 <!-- * [Vista por cima](#vista-por-cima) -->
-  * [Foto da tela](#foto-da-tela)
+  <!-- * [Foto da tela](#foto-da-tela) -->
   * [Links](#links)
 * [Meu processo]()
 
