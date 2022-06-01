@@ -13,3 +13,4 @@ while len(sorteados) < tamanho:
     sorteados.add(choice(numeros))
     """ OBS: O set não permite valores repetidos. """
     lista.sort()
+    """ OBS: O sort() ordena a lista. """
