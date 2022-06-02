@@ -24,7 +24,7 @@ Projeto basico para testa os conhecimentos adquiridos durante o Curso de Algorit
 <!-- ## VISTA POR CIMA -->
 
 <!-- SCREENSHOT -->
-## FOTO DA TELA
+<!-- ## FOTO DA TELA -->
 
 <!-- LINKS -->
 ## LINKS
