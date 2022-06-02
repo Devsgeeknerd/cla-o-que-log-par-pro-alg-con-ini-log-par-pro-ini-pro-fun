@@ -15,6 +15,6 @@ Projeto basico para testa os conhecimentos adquiridos durante o Curso de Algorit
   * [Construido com](#construido-com)
   <!-- * [O que aprendi](#o-que-aprendi) -->
   <!-- * [Desenvolvimento continuo](#desenvolvimento-continuo) -->
-  * [Recursos úteis](#recursos-uteis)
+  <!-- * [Recursos úteis](#recursos-úteis) -->
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fpro-imp&label=VISITANTES&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
