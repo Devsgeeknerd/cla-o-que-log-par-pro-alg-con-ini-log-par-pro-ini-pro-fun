@@ -1,71 +1,69 @@
-<!-- TITLE -->
-# Gerador de Números Ímpares
+<!-- Título -->
+# O Que é Lógica Para Programação e Algoritmo
 
-***Conteúdo do Projeto:***
+Nós definimos como lógica para programação a técnica de encadear pensamentos para atingir determinado objetivo.
 
-Projeto basico para testa os conhecimentos adquiridos durante o Curso de Algoritmos & logica de Programacao.
+Lógica para programação é a maneira como organizamos nossos pensamentos para conseguirmos executar determinada tarefa.
 
-<!-- TABLE OF CONTENTS -->
-## TABELA DE CONTEÚDOS
+Por exemplo, como fazemos para verificar se uma pessoa é maior de idade ou não?
 
-<!-- * [Vista por cima](#vista-por-cima) -->
-  <!-- * [Foto da tela](#foto-da-tela) -->
-  <!-- * [Links](#links) -->
-* [Meu processo](#meu-processo)
-  * [Construido com](#construido-com)
-  <!-- * [O que aprendi](#o-que-aprendi) -->
-  <!-- * [Desenvolvimento continuo](#desenvolvimento-continuo) -->
-  <!-- * [Recursos úteis](#recursos-úteis) -->
-* [Autores](#autores)
-<!-- * [Agradecimentos](#agradecimentos) -->
-* [Informações](#informações)
+Os pensamentos que executamos para fazermos essa verificação constituem a lógica para resolução desse problema e, consequentemente, são a lógica para programação para se escrever um software para se resolver este problema.
 
-<!-- OVERVIEW -->
-<!-- ## VISTA POR CIMA -->
+Esses pensamentos podem ser descritos como uma sequência de instruções, que devem ser seguidas para se cumprir determinada tarefa.
 
-<!-- SCREENSHOT -->
-<!-- ### FOTO DA TELA -->
+Essa sequência também costumamos chamar de “sequência lógica”.
 
-<!-- LINKS -->
-<!-- ### LINKS -->
+E é esta sequência de instruções que precisamos traduzir para um computador quando escrevemos um software.
 
-<!-- MY PROCESS -->
-## MEU PROCESSO
+## E o que são algoritmos?
 
-<!-- BUILT WITH -->
-### CONSTRUIDO COM
+Um algoritmo é formalmente uma sequência finita de passos que levam à execução de uma tarefa.
 
-* [Python](https://www.python.org/)
+Um exemplo de algoritmo é cada uma das operações básicas (adição, multiplicação, divisão e subtração).
 
-<!-- WHAT I LEARNED -->
-<!-- ### O QUE APRENDI -->
+Outro exemplo seria o manual de um aparelho eletrônico, como o de um gravador de DVD, que explica passo a passo como realizar uma gravação.
 
-<!-- CONTINUED DEVELOPMENT -->
-<!-- ### DESENVOLVIMENTO CONTINUO -->
+Veja outro exemplo:
 
-<!-- USEFUL RESOURCES -->
-<!-- ### RECURSOS ÚTEIS -->
+![Exemplo](https://d2v0x26thbzlwf.cloudfront.net/prod/864/img/rId5wsjpon3j.v5c.png "Exemplo do trajeto de casa para o trabalho")
 
-## AUTORES
+O algoritmo acima foi resolvido em 9 passos.
 
-* [Paulo Vanderley](https://github.com/Devsgeeknerd)
+Todavia, se for solicitado a outra pessoa para resolvê-lo, provavelmente a resposta será diferente, pois cada um abstrai um problema por ângulos diferentes, com maior ou menor riqueza de detalhes.
 
-<!-- ACKNOWLEDGEMENTS -->
-<!-- ## AGRADECIMENTOS -->
+Por outro lado, é possível perceber que o algoritmo descrito revela uma situação perfeita, sem condicionais, sem exceções (veja que não foi previsto pegar o ônibus errado, ou o pneu furar).
 
-<!-- INFORMATION -->
-## INFORMAÇÕES
+Mas, assim como na rotina de uma pessoa, as situações nem sempre são perfeitas e as exceções também ocorrem nos programas de computador.
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fpro-imp&label=VISITANTES&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
+Agora, veja o algoritmo "Ligação", no qual existem algumas condições:
+
+![Exemplo](https://d2v0x26thbzlwf.cloudfront.net/prod/864/img/rId6s2hfxkyk.mic.png "Exemplo de uma ligação")
+
+Podemos afirmar que este algoritmo é mais “completo” que o algoritmo “Trajeto_Casa_Trabalho”, pois contempla inclusive situações de erro – caso o telefone dê ou não dê sinal.
+
+Mas ainda assim ele é constituído de uma sequência de passos lógicos que visam resolver um problema – no primeiro caso, ir de casa para o trabalho; no segundo caso, fazer uma ligação telefônica.
+
+Perceba também que os dois algoritmos não foram descritos com uma linguagem formal, mas sim por uma descrição estruturada que se assemelha às linguagens comerciais.
+
+Este tipo de notação é que chamamos de pseudocódigo.
+
+Temos várias formas de representar um pseudocódigo.
+
+Podemos dividir estas formas nas categorias a seguir.
+
+<!-- Informações -->
+## &#8505; Informações
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcla-o-que-log-par-pro-alg-con-ini-log-par-pro-ini-pro-bas&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
 &nbsp;
-![followers](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=SEGUIDORES&labelColor=f9e64f "Total de Seguidores")
+![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=800080&color=000fff "Total de Seguidores")
 &nbsp;
-![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/pro-imp?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de Observadores")
+![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/cla-o-que-log-par-pro-alg-con-ini-log-par-pro-ini-pro-bas?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
 &nbsp;
-![stars](https://img.shields.io/github/stars/Devsgeeknerd/pro-imp?style=plastic&label=ESTRELAS&labelColor=f9e64f "Total de Estrelas Recebidas")
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/cla-o-que-log-par-pro-alg-con-ini-log-par-pro-ini-pro-bas?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
 &nbsp;
-![forks](https://img.shields.io/github/forks/Devsgeeknerd/pro-imp?style=plastic&label=BIFURCAÇÕES&labelColor=f9e64f "Total de Bifurcações")
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/cla-o-que-log-par-pro-alg-con-ini-log-par-pro-ini-pro-bas?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
 &nbsp;
-![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/pro-imp?style=plastic&label=TAMANHO&labelColor=f9e64f "Tamanho do Repositório")
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/cla-o-que-log-par-pro-alg-con-ini-log-par-pro-ini-pro-bas?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
 &nbsp;
-![license](https://img.shields.io/github/license/Devsgeeknerd/pro-imp?style=plastic&label=LICENÇA&labelColor=f9e64f "Licença do Repositório")
+![License](https://img.shields.io/github/license/Devsgeeknerd/cla-o-que-log-par-pro-alg-con-ini-log-par-pro-ini-pro-bas?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
